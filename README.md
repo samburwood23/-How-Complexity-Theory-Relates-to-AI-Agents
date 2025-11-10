@@ -93,9 +93,10 @@ Every attempt to solve a problem fundamentally changes it. Like quantum measurem
 
 ### The Fundamental Gap
 
+### The Fundamental Gap
 ```mermaid
 flowchart LR
-A[Verification: O(n)] --> B{P = NP?}
+A[Verification: O(n)] --> B{"P = NP?"}
 C[Generation: O(?)] --> B
 B -->|No| D[Probably Not]
 D --> E[Gap is Essential]

@@ -15,7 +15,7 @@ THEN (can_find_quickly(solution)) ?
 
 ## Wiki Contents
 
-Our comprehensive wiki explores this question through multiple perspectives:
+This comprehensive wiki explores this question through multiple perspectives:
 
 * **Quantum Mechanics Primer for Software Engineers**
   Start here for foundations: understand superposition, entanglement, observer effects, and quantum tunnelling via programming analogies and software‑engineering scenarios.
@@ -220,7 +220,7 @@ Whether you’re optimising CI/CD pipelines, designing distributed systems, or b
 
 ## About
 
-Some recent research I’ve been thinking of.
+This is the accumulation of several years of university study and real world experience 
 
 ### Resources
 
